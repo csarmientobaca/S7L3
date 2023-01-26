@@ -1,0 +1,32 @@
+{
+    "Albums": [
+        {
+            "artist": "Arctic Monkeys",
+            "albums": "Favourite Worst Nightmare",
+            "year": "2007",
+            "country": "Europe",
+            "Label": "Domino"
+        },
+        {
+            "artist": "The Kooks",
+            "albums": "Inside In / Inside Out",
+            "year": "2006",
+            "country": "Europe",
+            "Label": "Domino"
+        },
+        {
+            "artist": "The Kooks",
+            "albums": "Junk of the Heart",
+            "year": "2011",
+            "country": "Europe",
+            "Label": "Virgin"
+        },
+        {
+            "artist": "The Strokes",
+            "albums": "Reptilia",
+            "year": "2004",
+            "country": "America",
+            "Label": "Rough Trade"
+        }
+    ]
+}
